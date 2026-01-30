@@ -28,11 +28,21 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
 ## OUTPUT:
+## Whois.com
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9102dfdd-b369-4497-871b-c86ba495e19a" />
 
+## ip2location
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc276852-387c-45c1-8530-bc4e716a64fd" />
+## web achiver.org
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/e9d6b7cc-c90a-45e3-b4bc-916df9e0dd76" />
+
+
+##
 
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
-##output
+## output
+<img width="647" height="194" alt="image" src="https://github.com/user-attachments/assets/4e672073-7437-4b16-9f0b-2d4e20b11983" />
 
 
 
