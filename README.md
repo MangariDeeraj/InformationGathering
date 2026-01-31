@@ -59,9 +59,12 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ## whatweb:
 <img width="945" height="263" alt="image" src="https://github.com/user-attachments/assets/0ae72726-99e0-421c-bca4-9736489dcf21" />
 
+## http
+<img width="956" height="832" alt="image" src="https://github.com/user-attachments/assets/7bb6f5b2-609f-4d33-b038-f9d49be796f3" />
+
 # Tracing the Location
-TCP Traceroute:
-sudo traceroute -T www.youtube.com
+## ICMP Traceroute:
+sudo traceroute  www.youtube.com
 ## output
 <img width="956" height="280" alt="image" src="https://github.com/user-attachments/assets/887bedcb-9664-41f3-9482-8f06c4ec6cef" />
 
@@ -72,6 +75,10 @@ sudo traceroute -U www.youtube.com
 
 <img width="955" height="356" alt="image" src="https://github.com/user-attachments/assets/3b513eff-e87c-4cf5-b6c5-1840b8820435" />
 
+## TCP Traceroute:
+sudo traceroute -T www.youtube.com
+## output
+<img width="934" height="92" alt="image" src="https://github.com/user-attachments/assets/83153025-7e8a-4010-8627-5bd461d4e725" />
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
